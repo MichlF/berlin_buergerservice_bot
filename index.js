@@ -1,5 +1,7 @@
 'use strict';
 
+// Based on Carsten Boensel's and maephisto's Burgerbot script
+
 // includes
 const puppeteer = require('puppeteer');
 const cheerio = require('cheerio');
